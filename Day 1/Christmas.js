@@ -1,3 +1,5 @@
+/* Write a javascript program to calculate days left until next christmas */
+
 today=new Date();
 var Christmas=new Date(today.getFullYear(), 11, 25);
 if (today.getMonth()==11 && today.getDate()>25) 

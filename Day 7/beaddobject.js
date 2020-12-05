@@ -1,4 +1,4 @@
-/* Write a javascript prototype method named beaddobject which extends Array prototype, to ass an object with its value to the array of objects */
+/* Write a javascript prototype method named beaddobject which extends Array prototype, to assign an object with its value to the array of objects */
 
 
 var Input = [

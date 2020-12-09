@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset=utf-8 />
+<title>Return first and last name from a form - w3resource</title>
+</head><body>
+	<br><br><br>
+	<h1 align="center">
+		BEST ENLIST Assignment - 11
+	</h1>
+<form id="form_data" onsubmit="getFormvalue()" style="text-align: center;" >
+First name: <input type="text" name="fname" value="Kamalishree"><br> <br><br>
+Last name: <input type="text" name="lname" value="Annadurai"><br> <br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+
+<script type="text/javascript">
+	function getFormvalue()
+{
+  var x=document.getElementById("form_data");
+  for (var i=0;i<x.length;i++)
+  {
+   if (x.elements[i].value!='Submit')
+    {  
+      console.log(x.elements[i].value);
+     }  
+   }
+}
+</script>
+</html>

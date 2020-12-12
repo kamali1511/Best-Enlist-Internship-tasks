@@ -3,22 +3,21 @@
 A react calculator application to achieve basic arithmetic operations like add, subtract, division and multiplication
 
 # Snapshots
-**_Addition Output_**
+**_Addition_**
 
 <img src="./snapshots/Add.png" height="100%" width="100%"/>
 
-**_Subtraction Output_**
+**_Subtraction_**
 
 <img src="./snapshots/Sub.png" height="100%" width="100%"/>
 
-**_Division Output_**
+**_Division_**
 
 <img src="./snapshots/Div.png" height="100%" width="100%"/>
 
-**_Multiplication Output_**
+**_Multiplication_**
 
 <img src="./snapshots/Mul.png" height="100%" width="100%"/>
-
 
 # Getting Started with Create React App
 

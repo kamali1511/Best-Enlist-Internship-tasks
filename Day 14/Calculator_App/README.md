@@ -1,3 +1,22 @@
+# Basic Calculator 
+
+A react calculator application to achieve basic arithmetic operations like add, subtract, division and multiplication
+
+# Snapshots
+
+Addition
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Add.png?raw=true)
+
+Subtraction
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Sub.png?raw=true)
+
+Multiplication
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Mul.png?raw=true)
+
+Division
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Div.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -5,16 +5,16 @@ A react calculator application to achieve basic arithmetic operations like add, 
 # Snapshots
 
 Addition
-![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Add.png?raw=true)
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/Day 14/Calculator_App/blob/master/snapshots/Add.png?raw=true)
 
 Subtraction
-![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Sub.png?raw=true)
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/Day 14/Calculator_App/blob/master/snapshots/Sub.png?raw=true)
 
 Multiplication
-![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Mul.png?raw=true)
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/Day 14/Calculator_App/blob/master/snapshots/Mul.png?raw=true)
 
 Division
-![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/blob/master/snapshots/Div.png?raw=true)
+![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/Day 14/Calculator_App/blob/master/snapshots/Div.png?raw=true)
 
 
 # Getting Started with Create React App

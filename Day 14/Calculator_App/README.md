@@ -3,7 +3,21 @@
 A react calculator application to achieve basic arithmetic operations like add, subtract, division and multiplication
 
 # Snapshots
-![alt text](https://github.com/kamali1511/Best-Enlist-Internship-tasks/snapshots/blob/Master/Add.png?raw=true)
+**_Addition Output_**
+
+<img src="./snapshots/Add.png" height="100%" width="100%"/>
+
+**_Subtraction Output_**
+
+<img src="./snapshots/Sub.png" height="100%" width="100%"/>
+
+**_Division Output_**
+
+<img src="./snapshots/Div.png" height="100%" width="100%"/>
+
+**_Multiplication Output_**
+
+<img src="./snapshots/Mul.png" height="100%" width="100%"/>
 
 
 # Getting Started with Create React App
